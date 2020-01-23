@@ -24,12 +24,6 @@ struct Configs {
         static let redirectURL = "pocketapp48363:authorizationFinished" // pocketapp + $prefix + :authorizationFinished
     }
 
-    struct Alipay {
-        static let appID = "2016012101112529"
-        static let oauthID = "2017010804921689"
-        static let pid = "2088612252056908"
-    }
-
     struct Twitter {
         static let appID = "bFSwxYoVEFn1G9VhooO3grNv1"
         static let appKey = "YxBInrlvGoMPJjN9Xa4pBeCVILgz8qTXYlNdvJzzYlt9ingbZ2"

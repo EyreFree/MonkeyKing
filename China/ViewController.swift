@@ -16,7 +16,6 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         Item(title: "WeChat"),
         Item(title: "Weibo"),
         Item(title: "QQ"),
-        Item(title: "Alipay"),
         Item(title: "Twitter"),
         Item(title: "Pocket"),
         Item(title: "System"),
